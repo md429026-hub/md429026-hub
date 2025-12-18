@@ -1,26 +1,22 @@
 markdown
-Hi there, I'm MD Rasel 👋
+Hi there, I'm MD Rasel 
 
 🎥 Content Creator | 🧠 Professional Overthinker | 🌟 Always chasing creativity!
 
 ---
 
-🔭 I’m currently working on:  
+I’m currently working on:  
 gemini-cli — Bringing the power of Gemini to the terminal!
 
-🌱 I’m currently learning:  
-Git, JavaScript, APIs, and automation tools
-
-💬 Ask me about:  
+Ask me about:  
 Content creation, creative thinking, and productivity hacks
 
  Profile
 👤 Name: MD: Rasel  
 📝 Title: Content Creator | Digital Profile  
 
----
 
-🔗 Social Links (Button Style)
+🔗 Social Links
 
 📌 TikTok  
 ➡️ https://www.tiktok.com/@rasel135797
@@ -40,15 +36,11 @@ Content creation, creative thinking, and productivity hacks
 📌 YouTube  
 ➡️ https://youtube.com/@mediaproject8278
 
----
-
 📞 Contact Info (Text Section)  
 📱 Phone: 01932-360200  
 📧 Email: md429026@gmail.com  
 
 📌 Fun Fact:  
-I believe a little creativity can brighten any day ✨
+I believe a little creativity can brighten any day 
 
----
-
-⭐ Check out my latest project: [gemini-cli](https://github.com/md429026-hub/gemini-cli)
+Check out my latest project: [gemini-cli](https://github.com/md429026-hub/gemini-cli)
