@@ -1,16 +1,26 @@
-## Hi there 👋
+markdown
+Hi there, I'm MD Rasel 👋
 
-<!--
-**md429026-hub/md429026-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 Content Creator | 🧠 Professional Overthinker | 🌟 Always chasing creativity!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on:  
+gemini-cli — Bringing the power of Gemini to the terminal!
+
+🌱 I’m currently learning:  
+Git, JavaScript, APIs, and automation tools
+
+💬 Ask me about:  
+Content creation, creative thinking, and productivity hacks
+
+📫 How to reach me:  
+- TikTok: [@rasel135797](https://www.tiktok.com/@rasel135797)
+- Facebook: [fb.com/mdrasel](https://facebook.com/mdrasel)
+
+📌 Fun Fact:  
+I believe a little creativity can brighten any day ✨
+
+---
+
+⭐ Check out my latest project: [gemini-cli](https://github.com/md429026-hub/gemini-cli)
